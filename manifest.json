@@ -27,10 +27,6 @@
     "file": "assets/ionicons.2d02d165.woff2",
     "src": "node_modules/onsenui/css/ionicons/fonts/ionicons.woff2"
   },
-  "node_modules/onsenui/css/font_awesome/webfonts/fa-solid-900.woff2": {
-    "file": "assets/fa-solid-900.f18c486a.woff2",
-    "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-solid-900.woff2"
-  },
   "node_modules/onsenui/css/font_awesome/webfonts/fa-regular-400.woff2": {
     "file": "assets/fa-regular-400.ccf4db1e.woff2",
     "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-regular-400.woff2"
@@ -38,6 +34,10 @@
   "node_modules/onsenui/css/font_awesome/webfonts/fa-brands-400.woff2": {
     "file": "assets/fa-brands-400.dc64d719.woff2",
     "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-brands-400.woff2"
+  },
+  "node_modules/onsenui/css/font_awesome/webfonts/fa-solid-900.woff2": {
+    "file": "assets/fa-solid-900.f18c486a.woff2",
+    "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-solid-900.woff2"
   },
   "node_modules/onsenui/css/font_awesome/webfonts/fa-regular-400.woff": {
     "file": "assets/fa-regular-400.2835b63f.woff",
@@ -67,13 +67,13 @@
     "file": "assets/ionicons.4d35c108.ttf",
     "src": "node_modules/onsenui/css/ionicons/fonts/ionicons.ttf"
   },
-  "node_modules/onsenui/css/font_awesome/webfonts/fa-solid-900.ttf": {
-    "file": "assets/fa-solid-900.7a58f741.ttf",
-    "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-solid-900.ttf"
-  },
   "node_modules/onsenui/css/font_awesome/webfonts/fa-brands-400.ttf": {
     "file": "assets/fa-brands-400.70726f98.ttf",
     "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-brands-400.ttf"
+  },
+  "node_modules/onsenui/css/font_awesome/webfonts/fa-solid-900.ttf": {
+    "file": "assets/fa-solid-900.7a58f741.ttf",
+    "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-solid-900.ttf"
   },
   "node_modules/onsenui/css/font_awesome/webfonts/fa-regular-400.svg": {
     "file": "assets/fa-regular-400.934530d8.svg",
