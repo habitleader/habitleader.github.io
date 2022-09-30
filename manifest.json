@@ -1,19 +1,19 @@
 {
-  "node_modules/onsenui/css/ionicons/fonts/ionicons.eot": {
-    "file": "assets/ionicons.a8930904.eot",
-    "src": "node_modules/onsenui/css/ionicons/fonts/ionicons.eot"
-  },
   "node_modules/onsenui/css/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff2": {
     "file": "assets/Material-Design-Iconic-Font.e8eea96e.woff2",
     "src": "node_modules/onsenui/css/material-design-iconic-font/fonts/Material-Design-Iconic-Font.woff2"
   },
-  "node_modules/onsenui/css/font_awesome/webfonts/fa-brands-400.eot": {
-    "file": "assets/fa-brands-400.bd4e21d8.eot",
-    "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-brands-400.eot"
+  "node_modules/onsenui/css/ionicons/fonts/ionicons.eot": {
+    "file": "assets/ionicons.a8930904.eot",
+    "src": "node_modules/onsenui/css/ionicons/fonts/ionicons.eot"
   },
   "node_modules/onsenui/css/font_awesome/webfonts/fa-regular-400.eot": {
     "file": "assets/fa-regular-400.4aa44a07.eot",
     "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-regular-400.eot"
+  },
+  "node_modules/onsenui/css/font_awesome/webfonts/fa-brands-400.eot": {
+    "file": "assets/fa-brands-400.bd4e21d8.eot",
+    "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-brands-400.eot"
   },
   "node_modules/onsenui/css/font_awesome/webfonts/fa-solid-900.eot": {
     "file": "assets/fa-solid-900.e153efe3.eot",
