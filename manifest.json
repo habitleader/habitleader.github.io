@@ -39,17 +39,17 @@
     "file": "assets/fa-solid-900.f18c486a.woff2",
     "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-solid-900.woff2"
   },
-  "node_modules/onsenui/css/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf": {
-    "file": "assets/Material-Design-Iconic-Font.18a45be2.ttf",
-    "src": "node_modules/onsenui/css/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf"
+  "node_modules/onsenui/css/font_awesome/webfonts/fa-regular-400.woff": {
+    "file": "assets/fa-regular-400.2835b63f.woff",
+    "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-regular-400.woff"
   },
   "node_modules/onsenui/css/ionicons/fonts/ionicons.woff": {
     "file": "assets/ionicons.27e79201.woff",
     "src": "node_modules/onsenui/css/ionicons/fonts/ionicons.woff"
   },
-  "node_modules/onsenui/css/font_awesome/webfonts/fa-regular-400.woff": {
-    "file": "assets/fa-regular-400.2835b63f.woff",
-    "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-regular-400.woff"
+  "node_modules/onsenui/css/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf": {
+    "file": "assets/Material-Design-Iconic-Font.18a45be2.ttf",
+    "src": "node_modules/onsenui/css/material-design-iconic-font/fonts/Material-Design-Iconic-Font.ttf"
   },
   "node_modules/onsenui/css/font_awesome/webfonts/fa-brands-400.woff": {
     "file": "assets/fa-brands-400.17ce8b9d.woff",
@@ -59,13 +59,13 @@
     "file": "assets/fa-solid-900.20464aeb.woff",
     "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-solid-900.woff"
   },
-  "node_modules/onsenui/css/ionicons/fonts/ionicons.ttf": {
-    "file": "assets/ionicons.4d35c108.ttf",
-    "src": "node_modules/onsenui/css/ionicons/fonts/ionicons.ttf"
-  },
   "node_modules/onsenui/css/font_awesome/webfonts/fa-regular-400.ttf": {
     "file": "assets/fa-regular-400.112491dc.ttf",
     "src": "node_modules/onsenui/css/font_awesome/webfonts/fa-regular-400.ttf"
+  },
+  "node_modules/onsenui/css/ionicons/fonts/ionicons.ttf": {
+    "file": "assets/ionicons.4d35c108.ttf",
+    "src": "node_modules/onsenui/css/ionicons/fonts/ionicons.ttf"
   },
   "node_modules/onsenui/css/font_awesome/webfonts/fa-brands-400.ttf": {
     "file": "assets/fa-brands-400.70726f98.ttf",
